@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(154, 243, 154);
+  display: flex;
+  justify-content: center;
+  margin-top: 18vw;
+  align-items: center;
+}
+
+.link {
+  padding: 20px;
+  font-size: 25px;
+}
